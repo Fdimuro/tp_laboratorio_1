@@ -46,7 +46,7 @@ int main()
     mostrarResultados(a,b,suma,resta,multiplicacion,factorialA,factorialB,flagOper,flagResultado,division);
 
 
-    printf("\n5. Desea Continuar en la calculadora? S/N: \n");
+
 
 
     printf("===Seleccione su opcion===: ");

@@ -14,3 +14,18 @@
 	<windows.h>
 	"funciones.h"
 
+1599953267 source:c:\users\fdimuro\desktop\tp_laboratorio_1\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599953267 c:\users\fdimuro\desktop\tp_laboratorio_1\tp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1599953267 source:c:\users\fdimuro\desktop\tp_laboratorio_1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
