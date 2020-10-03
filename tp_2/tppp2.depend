@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601695445 source:c:\users\fdimuro\desktop\programacion\tppp2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1601695478 c:\users\fdimuro\desktop\programacion\tppp2\validaciones.h
+
